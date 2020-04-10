@@ -25,6 +25,7 @@ Submit a link below to [this file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [Marylene's Solution](https://github.com/Bluette1/Newsweek-Clone) - [View in Browser](https://rawcdn.githack.com/Bluette1/Newsweek-Clone/c2c31ffbc7aab0f73a64b10e96c351149216e491/index.html)
 * [Johongirr's Solution](https://github.com/Johongirr/the-nextweb) - [View in Browser](https://johongirr.github.io/the-nextweb/)
 * [Sebastian Gil's Solution](https://github.com/lBuggie/newsweek) - [View in Browser](https://rawcdn.githack.com/lBuggie/newsweek/e3056048ef59b0f7aa621cdabf0235fe2f16b7ca/index.html)
 * [Igorashs's Solution](https://github.com/igorashs/using-bootstrap) - [View in Browser](https://igorashs.github.io/using-bootstrap/)
